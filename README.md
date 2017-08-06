@@ -11,10 +11,6 @@ The technique used in this project employs a simple cellphone camera without a z
 by means of cropping instead of zooming. Given the high-resolution of the contemporary cellphone camera, an image can be
 cropped to a fraction of its original size while still maintaining a decent quality even at 1080p.
 
-This project was done as part of the final project for
-[CS6475: Computational Photography](https://www.omscs.gatech.edu/cs-6475-computational-photography) at Georgia Institute of 
-Technology.
-
 ![](https://github.com/chetansastry/dolly-zoom/raw/master/demo.gif)
 
 ## Dependencies
@@ -30,4 +26,3 @@ Run main.py for usage information
 ## Credits and references
 
 1. Motivation - https://petapixel.com/2016/10/11/create-dolly-zoom-effect-post-no-zoom-lens-required/
-2. The amazing teaching staff at The Georgia Institute of Technology
