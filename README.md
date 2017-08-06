@@ -15,7 +15,7 @@ This project was done as part of the final project for
 [CS6475: Computational Photography](https://www.omscs.gatech.edu/cs-6475-computational-photography) at Georgia Institute of 
 Technology.
 
-![](https://raw.githubusercontent.com/chetansastry/dolly-zoom/master/demo.gif)
+![](https://github.com/chetansastry/dolly-zoom/raw/master/demo.gif)
 
 ## Dependencies
 
