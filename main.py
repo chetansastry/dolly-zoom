@@ -1,14 +1,3 @@
-"""
-You can use this file to execute your code. You are NOT required
-to use this file, and ARE ALLOWED to make ANY changes you want in
-THIS file. This file will not be submitted with your assignment
-or report, so if you write code for above & beyond effort, make sure
-that you include important snippets in your writeup. CODE ALONE IS
-NOT SUFFICIENT FOR ABOVE AND BEYOND CREDIT.
-
-    DO NOT SHARE CODE (INCLUDING TEST CASES) WITH OTHER STUDENTS.
-"""
-
 import dollyzoom
 import os
 from os import path
