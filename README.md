@@ -9,7 +9,7 @@ the background undergoes [Perspective distortion](https://en.wikipedia.org/wiki/
 
 The technique used in this project employs a simple cellphone camera without a zoom lens and tries to get the same results
 by means of cropping instead of zooming. Given the high-resolution of the contemporary cellphone camera, an image can be
-cropped to a fraction of its original size while still maintaining a decent quality even at 1080p.
+cropped to a fraction of its original size while still maintaining a decent resolution.
 
 ![](https://github.com/chetansastry/dolly-zoom/raw/master/demo.gif)
 
@@ -17,7 +17,7 @@ cropped to a fraction of its original size while still maintaining a decent qual
 
 * Python 2.7
 * Numpy
-* OpenCV
+* OpenCV 2
 
 ## Usage
 
@@ -26,3 +26,4 @@ Run main.py for usage information
 ## Credits and references
 
 1. Motivation - https://petapixel.com/2016/10/11/create-dolly-zoom-effect-post-no-zoom-lens-required/
+2. Georgia Tech [CS 6476 Computational Photography](https://compphotography.wordpress.com/) - this was part of my final project for the course.
